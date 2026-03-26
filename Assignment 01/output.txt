@@ -1,0 +1,27 @@
+Case 1:
+
+Create a password: SharonADobbin
+Weak password. Try again.
+Password must be at least 8 characters long,
+contain uppercase, lowercase, and a number.
+
+Case 2: 
+
+Create a password: abcd@1234#xyz
+Weak password. Try again.
+Password must be at least 8 characters long,
+contain uppercase, lowercase, and a number.
+
+
+Case 3: 
+
+Create a password: Abc@123
+Weak password. Try again.
+Password must be at least 8 characters long,
+contain uppercase, lowercase, and a number.
+
+
+Case 4:
+
+Create a password: Abc@123#
+Password created successfully.
