@@ -1,0 +1,4 @@
+Assignment given on improving security of a Python program for login.
+
+Problem statement - 
+Create a strong code for password authentication using python. 
