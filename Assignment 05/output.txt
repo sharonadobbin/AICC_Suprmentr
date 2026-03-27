@@ -1,0 +1,27 @@
+Enter name of student 1: Sharon
+Enter marks of Sharon: 95
+Enter name of student 2: Prithvi
+Enter marks of Prithvi: 92
+Enter name of student 3: Pooja
+Enter marks of Pooja: 93.5
+Enter name of student 4: Sherin 
+Enter marks of Sherin : 90.8
+Enter name of student 5: Navya
+Enter marks of Navya: 95.1
+
+Student Marks:
+Sharon : 95.0
+Prithvi : 92.0
+Pooja : 93.5
+Sherin  : 90.8
+Navya : 95.1
+
+Topper: Navya with marks: 95.1
+Class Average: 93.28
+
+Grades:
+Sharon -> A+
+Prithvi -> A+
+Pooja -> A+
+Sherin  -> A+
+Navya -> A+
