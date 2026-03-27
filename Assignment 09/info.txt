@@ -1,0 +1,4 @@
+Assignment given - ML idea generator
+
+Problem Statement - 
+Create an idea generator which will suggest ML problems in colleges, healthcare, shopping, etc., and then describe the input and output, as well as the process of generation.

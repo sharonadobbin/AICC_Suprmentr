@@ -1,0 +1,28 @@
+=== MACHINE LEARNING IDEA GENERATOR ===
+
+Select Domain:
+A. College
+B. Healthcare
+C. Shopping
+Enter choice (A/B/C): B
+
+Selected Domain: Healthcare
+Select Problem Type:
+1. Prediction
+2. Risk Analysis
+Enter choice: 2
+
+--- ML IDEA GENERATED ---
+
+Domain: Healthcare
+Problem: Hospital Readmission Prediction
+
+Input: Patient history, treatment data
+Output: Chance of readmission
+
+Process:
+Analyze past records and build predictive models.
+
+Generate another idea? (yes/no): n
+
+Exiting Idea Generator.
