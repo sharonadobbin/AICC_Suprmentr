@@ -1,0 +1,48 @@
+--- Dataset ---
+    Annual Income (k$)  Spending Score
+0                   15              39
+1                   16              81
+2                   17               6
+3                   18              77
+4                   40              40
+5                   42              42
+6                   43              50
+7                   45              60
+8                   70              20
+9                   72              25
+10                  73              30
+11                  75              35
+
+--- Clustered Data ---
+    Annual Income (k$)  Spending Score  Cluster
+0                   15              39        0
+1                   16              81        0
+2                   17               6        2
+3                   18              77        0
+4                   40              40        0
+5                   42              42        0
+6                   43              50        0
+7                   45              60        0
+8                   70              20        1
+9                   72              25        1
+10                  73              30        1
+11                  75              35        1
+
+--- Customer Groups ---
+
+Cluster 0:
+Average Income: 31.29
+Average Spending Score: 55.57
+Type: Medium Income Customers
+
+Cluster 1:
+Average Income: 72.50
+Average Spending Score: 27.50
+Type: High Income Customers
+
+Cluster 2:
+Average Income: 17.00
+Average Spending Score: 6.00
+Type: Low Income Customers
+
+[REFER FIGURE_1 FOR GRAPH]

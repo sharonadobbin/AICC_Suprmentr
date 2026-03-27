@@ -1,0 +1,4 @@
+Assignment Given : Customer Segmentation
+
+Problem Statement : 
+Perform K-Means clustering on a mall dataset and describe customer groups.
