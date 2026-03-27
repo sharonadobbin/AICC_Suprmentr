@@ -1,0 +1,4 @@
+Assignment Given : KNN in Real Life
+
+Problem Statement : 
+Explain Netflix-like recommendations using KNN and create a small similarity example.
