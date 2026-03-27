@@ -1,0 +1,5 @@
+=== TEXT CLEANER ===
+Enter text: This is a Sample sentence, with punctuation!
+
+Cleaned Text:
+sample sentence punctuation
