@@ -1,0 +1,6 @@
+Python list addition time: 0.05843830108642578
+NumPy array addition time: 0.003637075424194336
+Python list multiplication time: 0.08427715301513672
+NumPy array multiplication time: 0.0032868385314941406
+Python list squaring time: 0.09885692596435547
+NumPy array squaring time: 0.0038721561431884766

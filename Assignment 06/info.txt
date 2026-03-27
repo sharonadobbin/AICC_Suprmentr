@@ -1,0 +1,4 @@
+Assignment given -  NumPy Speed Test. 
+
+Problem Statement : 
+Compare Python lists vs NumPy arrays with 1M numbers, measure execution time, write 3 observations.
