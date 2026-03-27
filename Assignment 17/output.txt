@@ -1,0 +1,221 @@
+=== TEXT CHALLENGE ANALYZER ===
+
+Sentence: hey broooo!!! 😂 what's up???
+Slang: None
+Emojis: ['😂']
+Typos (repeated letters): ['o', '!', '?']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: I loooove this sooo much!!! ❤️
+Slang: None
+Emojis: None
+Typos (repeated letters): ['o', 'o', '!']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: u coming tmrw?
+Slang: ['u']
+Emojis: None
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: This is amazng!!!
+Slang: None
+Emojis: None
+Typos (repeated letters): ['!']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: lol that was funny 😂😂
+Slang: ['lol']
+Emojis: ['😂😂']
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: gud mrng frnd!
+Slang: None
+Emojis: None
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: cant w8 for the party 🎉
+Slang: None
+Emojis: ['🎉']
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: omg this is crazzzyyy
+Slang: ['omg']
+Emojis: None
+Typos (repeated letters): ['z', 'y']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: pls send the doc asap
+Slang: ['pls']
+Emojis: None
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: thx for ur help 😊
+Slang: ['thx']
+Emojis: ['😊']
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: heyyy wassup??
+Slang: None
+Emojis: None
+Typos (repeated letters): ['y']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: idk what to do 😭
+Slang: ['idk']
+Emojis: ['😭']
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: this is sooo coool!!!
+Slang: None
+Emojis: None
+Typos (repeated letters): ['o', 'o', '!']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: c u later
+Slang: ['c', 'u']
+Emojis: None
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: hru doing?
+Slang: ['hru']
+Emojis: None
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: wowww that's gr8!
+Slang: None
+Emojis: None
+Typos (repeated letters): ['w']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: im sooo tired 😴
+Slang: None
+Emojis: ['😴']
+Typos (repeated letters): ['o']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: lmao that joke 😂
+Slang: None
+Emojis: ['😂']
+Typos (repeated letters): None
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: bday party was littt 🔥
+Slang: ['bday']
+Emojis: ['🔥']
+Typos (repeated letters): ['t']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
+
+Sentence: okkkk done 👍
+Slang: None
+Emojis: ['👍']
+Typos (repeated letters): ['k']
+Suggested Preprocessing:
+- Convert to lowercase
+- Remove emojis
+- Replace slang with full words
+- Remove repeated characters
+- Correct spelling
