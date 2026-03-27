@@ -1,0 +1,5 @@
+Assignment Name : Mini Project Proposal
+
+Description : 
+Submit a 1-page proposal with problem, dataset, algorithm, expected output.
+Pick a generic ML problem, find dataset, perform necessary actions on them and submit report
