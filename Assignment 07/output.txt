@@ -1,0 +1,46 @@
+Top 5 rows of the dataset:
+            job_title  experience_years education_level  skills_count  ...   location remote_work certifications  salary
+0         AI Engineer                10        Bachelor             2  ...      India      Hybrid              2  109413
+1        Data Analyst                 5        Bachelor            17  ...  Australia          No              0   93764
+2  Frontend Developer                18             PhD             4  ...  Singapore          No              1  148123
+3    Business Analyst                19             PhD            13  ...     Canada         Yes              0  189123
+4     Product Manager                15        Bachelor             7  ...     Sweden         Yes              0  165069
+
+[5 rows x 10 columns]
+
+Column with highest value:
+Column: salary
+Highest Value: 333046
+
+Missing values in each column:
+job_title           0
+experience_years    0
+education_level     0
+skills_count        0
+industry            0
+company_size        0
+location            0
+remote_work         0
+certifications      0
+salary              0
+dtype: int64
+
+Dataset Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 250000 entries, 0 to 249999
+Data columns (total 10 columns):
+ #   Column            Non-Null Count   Dtype
+---  ------            --------------   -----
+ 0   job_title         250000 non-null  object
+ 1   experience_years  250000 non-null  int64
+ 2   education_level   250000 non-null  object
+ 3   skills_count      250000 non-null  int64
+ 4   industry          250000 non-null  object
+ 5   company_size      250000 non-null  object
+ 6   location          250000 non-null  object
+ 7   remote_work       250000 non-null  object
+ 8   certifications    250000 non-null  int64
+ 9   salary            250000 non-null  int64
+dtypes: int64(4), object(6)
+memory usage: 19.1+ MB
+None

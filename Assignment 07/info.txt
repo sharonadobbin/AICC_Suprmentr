@@ -1,0 +1,4 @@
+Assignment - Dataset Detective. 
+
+Problem Statement - 
+Load a dataset, display top rows, find highest value column, count missing values, share 5 insights.
