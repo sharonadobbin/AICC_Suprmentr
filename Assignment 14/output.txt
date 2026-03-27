@@ -1,0 +1,7 @@
+=== Prediction ===
+
+Enter Weather (Sunny/Overcast/Rainy): Sunny
+Enter Humidity (High/Normal): Normal
+Enter Wind (Weak/Strong): Strong
+
+Should you play outside? Yes

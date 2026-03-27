@@ -1,0 +1,4 @@
+Assignment Given: Decision Tree on Paper
+
+Problem Statement: 
+Draw a decision tree predicting whether you should play outside.
