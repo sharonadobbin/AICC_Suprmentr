@@ -1,0 +1,4 @@
+Assignment Given: Spam Classifier Thinking
+
+Problem Statement: 
+Design a spam detection system: features, data needed, possible mistakes.

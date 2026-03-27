@@ -1,0 +1,28 @@
+--- Dataset ---
+                            message label
+0            Win a free lottery now  spam
+1               Hello, how are you?   ham
+2      Exclusive offer just for you  spam
+3               Let's meet tomorrow   ham
+4  Congratulations, you won a prize  spam
+5       Are we still on for dinner?   ham
+6         Get cheap loans instantly  spam
+7         Call me when you are free   ham
+
+--- Model Evaluation ---
+Accuracy: 0.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ham       0.00      0.00      0.00       2.0
+        spam       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       2.0
+   macro avg       0.00      0.00      0.00       2.0
+weighted avg       0.00      0.00      0.00       2.0
+
+
+--- Spam Detection ---
+Enter a message: winner!1
+Prediction: spam
