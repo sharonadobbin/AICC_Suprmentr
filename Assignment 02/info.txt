@@ -1,0 +1,4 @@
+Assignment - (10th February) 
+
+Problem Statement - 
+“AI Around Me” : List 10 real-life AI applications you use daily and explain how ML might work behind each.

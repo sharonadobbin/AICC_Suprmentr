@@ -1,0 +1,33 @@
+Assignment - (10th February) 
+
+Problem Statement - “AI Around Me” : List 10 real-life AI applications you use daily and explain how ML might work behind each.
+
+1. Google Maps
+This app predicts traffic and suggests the fastest routes. Machine learning models analyze large amounts of historical and real-time traffic data to estimate travel time. The system continuously updates predictions as new data comes in from users’ devices.
+
+2. YouTube
+The recommendation system suggests videos based on what I watch, like, or search. ML models study patterns in viewing behavior and compare them with similar users. The algorithm predicts which videos I am most likely to click and watch longer.
+
+3. Spotify
+It creates personalized playlists such as Discover Weekly. Machine learning analyzes listening history, skipped songs, and saved tracks. It groups users with similar tastes and recommends songs based on shared patterns.
+
+4. Instagram
+The feed and explore page are personalized. ML models rank posts based on past interactions, likes, comments, and time spent viewing similar content. It predicts which posts are most engaging for each user.
+
+5. Amazon
+Product recommendations appear based on browsing and purchase history. Machine learning compares my activity with other customers’ behavior. It predicts which products I am likely to buy next.
+
+6. Netflix
+Movie and show suggestions are tailored to my viewing habits. ML systems analyze watch time, ratings, and genres I prefer. They estimate which titles I will enjoy using collaborative filtering techniques.
+
+7. Gmail
+Spam filtering automatically moves unwanted emails to the spam folder. Machine learning models are trained on millions of emails to recognize patterns in spam messages. The system improves as users mark messages as spam or not spam.
+
+8. Apple Face ID
+Face recognition unlocks the phone securely. ML models map facial features and compare them to stored data. The system adapts over time to small changes in appearance, such as glasses or facial hair.
+
+9. Google Assistant
+Voice commands are converted into text and actions. Speech recognition models analyze sound patterns and match them to words. Natural language processing models then determine the user’s intent.
+
+10. Roomba
+A robotic vacuum learns the layout of a home over time. Machine learning helps it map rooms, detect obstacles, and improve cleaning paths. Sensors collect data, and algorithms decide the most efficient route while avoiding collisions.
