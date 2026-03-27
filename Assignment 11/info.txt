@@ -1,0 +1,4 @@
+Assignment Given: House Price Predictor
+
+Problem Statement: 
+Train a Linear Regression model, predict prices, and test with new input.

@@ -1,0 +1,25 @@
+--- Dataset ---
+   Area (sq ft)  Bedrooms  Age (years)    Price
+0           800         2           10  2000000
+1          1000         2            8  2500000
+2          1200         3            6  3000000
+3          1500         3            5  3800000
+4          1800         4            4  4500000
+5          2000         4            3  5000000
+6          2200         5            2  5500000
+7          2500         5            1  6200000
+
+--- Model Evaluation ---
+R² Score: 1.00
+
+--- Predict House Price ---
+Enter area (sq ft): 1250
+Enter number of bedrooms: 3
+Enter age of house: 2
+D:\Suprmentr Assignments\ml_env\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+Predicted Price: ₹3,225,461.54
+
+
+[REFER TO FIGURE_1 FOR GRAPH REFERENCE]
