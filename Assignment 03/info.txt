@@ -1,0 +1,4 @@
+Assignment given: Self-Introduction Python Program. 
+
+Problem statement - 
+Build a Python program that takes name, age, hobby and prints a personalized message while categorizing age using conditionals.

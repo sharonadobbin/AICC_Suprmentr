@@ -1,0 +1,9 @@
+Enter your name: Sharon A Dobbin
+Enter your age: 21
+Enter your favorite hobby: Reading
+
+--- Personalized Message ---
+Hello Sharon A Dobbin!
+You are 21 years old, which means you are an adult.
+It's great that you enjoy Reading!
+Keep learning and having fun!
