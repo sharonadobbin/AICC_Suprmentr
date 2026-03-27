@@ -1,0 +1,21 @@
+
+Customer Groups:
+
+Cluster 0:
+ Avg Income: 31.3
+ Avg Spending: 55.6
+ Type: Medium income group
+
+Cluster 1:
+ Avg Income: 72.5
+ Avg Spending: 27.5
+ Type: High income group
+
+Cluster 2:
+ Avg Income: 17.0
+ Avg Spending: 6.0
+ Type: Low income group
+
+
+
+ [refer Figure_1 for graph reference]
