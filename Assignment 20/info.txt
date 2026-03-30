@@ -1,0 +1,4 @@
+Assignment Given : Movie Review Analyzer
+
+Problem Statement : 
+Build a simple sentiment analyzer and test on 5 reviews.
