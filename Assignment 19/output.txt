@@ -1,0 +1,113 @@
+Document 1 Top Keywords:
+
+Keyword: piracy
+Score: 0.4467
+Explanation: 'piracy' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.4467).
+
+Keyword: social
+Score: 0.3655
+Explanation: 'social' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.3655).
+
+Keyword: consensus
+Score: 0.3032
+Explanation: 'consensus' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.3032).
+
+Keyword: al
+Score: 0.2030
+Explanation: 'al' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2030).
+
+Keyword: digital
+Score: 0.2030
+Explanation: 'digital' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2030).
+
+
+Document 2 Top Keywords:
+
+Keyword: item
+Score: 0.6081
+Explanation: 'item' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.6081).
+
+Keyword: text
+Score: 0.4088
+Explanation: 'text' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.4088).
+
+Keyword: used
+Score: 0.2453
+Explanation: 'used' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2453).
+
+Keyword: list
+Score: 0.2027
+Explanation: 'list' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2027).
+
+Keyword: pdf
+Score: 0.2027
+Explanation: 'pdf' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2027).
+
+
+Document 3 Top Keywords:
+
+Keyword: content
+Score: 0.4102
+Explanation: 'content' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.4102).
+
+Keyword: piracy
+Score: 0.3405
+Explanation: 'piracy' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.3405).
+
+Keyword: make
+Score: 0.2179
+Explanation: 'make' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2179).
+
+Keyword: 2023
+Score: 0.1453
+Explanation: '2023' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.1453).
+
+Keyword: sales
+Score: 0.1453
+Explanation: 'sales' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.1453).
+
+
+Document 4 Top Keywords:
+
+Keyword: piracy
+Score: 0.5041
+Explanation: 'piracy' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.5041).
+
+Keyword: influences
+Score: 0.2603
+Explanation: 'influences' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2603).
+
+Keyword: digital
+Score: 0.2160
+Explanation: 'digital' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2160).
+
+Keyword: al
+Score: 0.2160
+Explanation: 'al' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2160).
+
+Keyword: et
+Score: 0.2160
+Explanation: 'et' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2160).
+
+
+Document 5 Top Keywords:
+
+Keyword: sentiment
+Score: 0.2626
+Explanation: 'sentiment' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2626).
+
+Keyword: topics
+Score: 0.2626
+Explanation: 'topics' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2626).
+
+Keyword: analysis
+Score: 0.2626
+Explanation: 'analysis' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2626).
+
+Keyword: text
+Score: 0.2119
+Explanation: 'text' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.2119).
+
+Keyword: understanding
+Score: 0.1313
+Explanation: 'understanding' is important because it appears frequently in this document but is relatively rare in other documents (TF-IDF score: 0.1313).

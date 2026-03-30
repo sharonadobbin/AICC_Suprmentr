@@ -1,0 +1,7 @@
+Session conducted on Sentiment Analysis and Text Classification using ML topics in the NLP.
+
+Key topics included text preprocessing, feature extraction methods such as TF-IDF, and the application of machine learning algorithms for classifying textual data.
+
+Emphasis was placed on understanding how models identify sentiment polarity and categorize content based on linguistic patterns.
+
+Practical applications, including social media monitoring and customer feedback analysis, were also discussed to highlight real-world relevance.
