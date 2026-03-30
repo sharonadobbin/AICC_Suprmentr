@@ -1,0 +1,4 @@
+Assignment Given : Semantic Meaning
+
+Problem Statement : 
+Find 5 word pairs and explain semantic similarity.

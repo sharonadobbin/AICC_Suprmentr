@@ -1,0 +1,49 @@
+Semantic Meaning
+
+
+Definition of Semantics:
+Semantics refers to the study of meaning in language. 
+
+In general usage, it focuses on how words, phrases, and sentences convey meaning in communication. 
+In Natural Language Processing (NLP), semantics involves understanding the meaning of words and how they relate to each other within a given context, enabling machines to interpret human language more accurately.
+
+
+Applications of Semantics:
+Semantics is widely used in areas such as search engines, chatbots, machine translation, sentiment analysis, and recommendation systems. It helps systems understand user intent, improve information retrieval, and provide more relevant and meaningful results. By analyzing relationships between words and context, semantic techniques enhance communication between humans and machines.
+
+
+Word Pairs, Similarity, and Relationships
+
+1. Word Pair: big – large (Basic)
+
+Similarity: High
+Relationship: Synonyms
+Explanation: Both words describe size and can be used interchangeably in most contexts.
+
+
+2. Word Pair: car – vehicle (Intermediate)
+
+Similarity: Moderate
+Relationship: Hypernym–Hyponym
+Explanation: A car is a type of vehicle, making “vehicle” a broader category.
+
+
+3. Word Pair: teacher – student (Intermediate)
+
+Similarity: Low
+Relationship: Relational (Role-based)
+Explanation: Both are related within an educational context but have opposite roles.
+
+
+4. Word Pair: happy – sad (Everyday / High-level category)
+
+Similarity: Low
+Relationship: Antonyms
+Explanation: These words represent opposite emotions commonly used in daily conversation.
+
+
+5. Word Pair: fast – quick (Everyday / High-level category)
+
+Similarity: High
+Relationship: Synonyms
+Explanation: Both words describe speed and are frequently used interchangeably in everyday speech.
