@@ -1,0 +1,4 @@
+Assignment Given : Break the AI
+
+Problem Statement : 
+Try confusing an LLM with tricky prompts and document results.
