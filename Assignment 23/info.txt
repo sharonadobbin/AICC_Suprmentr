@@ -1,0 +1,4 @@
+Assignment Given : Prompt Engineer
+
+Problem Statement : 
+Write prompts for resume, business idea, study plan and compare weak vs strong prompts.
