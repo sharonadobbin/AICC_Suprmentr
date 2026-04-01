@@ -1,0 +1,10 @@
+python
+java
+sql
+machine learning
+nlp
+data analysis
+deep learning
+excel
+aws
+docker

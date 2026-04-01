@@ -1,0 +1,31 @@
+Job Title: NLP Engineer Intern
+
+We are looking for a highly motivated NLP Engineer Intern to join our AI team. The candidate will work on building intelligent systems for text processing, resume analysis, and information extraction.
+
+Responsibilities:
+- Develop and implement Natural Language Processing (NLP) models
+- Perform text preprocessing, tokenization, and feature extraction
+- Build machine learning models for text classification and similarity analysis
+- Work with unstructured data such as resumes and job descriptions
+- Extract insights using data analysis techniques
+- Collaborate with the engineering team to deploy models
+
+Required Skills:
+- Strong knowledge of Python
+- Experience with NLP libraries such as spaCy and NLTK
+- Understanding of machine learning concepts
+- Familiarity with scikit-learn
+- Knowledge of text preprocessing and feature engineering
+- Experience with data analysis
+
+Preferred Skills:
+- Experience with deep learning and transformers
+- Familiarity with BERT or sentence transformers
+- Knowledge of SQL
+- Experience with cloud platforms like AWS
+- Understanding of Docker
+
+Qualifications:
+- Currently pursuing a degree in Computer Science, Data Science, or related field
+- Strong problem-solving skills
+- Good communication skills

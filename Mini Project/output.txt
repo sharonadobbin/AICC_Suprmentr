@@ -1,0 +1,50 @@
+Test One with Resume against JD [before TF-IDF upgrade]
+
+===== Resume Analysis =====
+
+Match Score: 18.86%
+
+Resume Skills: ['python', 'sql', 'data analysis', 'nlp', 'machine learning']
+JD Skills: ['python', 'deep learning', 'sql', 'data analysis', 'nlp', 'machine learning', 'docker', 'aws']
+
+Missing Skills: ['aws', 'deep learning', 'docker']
+
+Top JD Keywords: ['nlp', 'text', 'analysis', 'data', 'models', 'learning', 'engineer', 'intern', 'processing', 'extraction', 'preprocessing', 'feature', 'machine', 'engineering', 'strong']
+
+
+
+Test Two with Resume against JD [After TF-IDF upgrade]
+
+===== Resume Analysis =====
+
+Match Score: 45.04%
+
+Resume Skills: ['data analysis', 'python', 'nlp', 'machine learning', 'sql']
+JD Skills: ['data analysis', 'python', 'deep learning', 'aws', 'docker', 'nlp', 'machine learning', 'sql']
+
+Missing Skills: ['deep learning', 'aws', 'docker']
+
+Top JD Keywords: ['nlp', 'text', 'analysis', 'data', 'models', 'learning', 'engineer', 'intern', 'processing', 'extraction', 'preprocessing', 'feature', 'machine', 'engineering', 'strong']
+TF-IDF Score: 18.86%
+Skill Match Score: 62.5%
+
+Final Match Score: 45.04%
+
+
+
+Test Three with Resume against JD [After final upgrade]
+
+===== Resume Analysis =====
+
+Match Score: 45.04%
+
+Resume Skills: ['nlp', 'machine learning', 'python', 'sql', 'data analysis']
+JD Skills: ['deep learning', 'docker', 'nlp', 'machine learning', 'python', 'sql', 'aws', 'data analysis']
+
+Missing Skills: ['docker', 'aws', 'deep learning']
+
+Top JD Keywords: ['nlp', 'text', 'analysis', 'data', 'models', 'processing', 'extraction', 'preprocessing', 'feature', 'machine', 'engineering', 'understanding', 'familiarity', 'transformers', 'science']
+TF-IDF Score: 18.86%
+Skill Match Score: 62.5%
+
+Final Match Score: 45.04%
