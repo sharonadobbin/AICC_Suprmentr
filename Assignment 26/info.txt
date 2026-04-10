@@ -1,0 +1,7 @@
+Assignment Name : Image Filter Lab
+
+Description : 
+Use OpenCV to grayscale, blur, detect edges and show before/after.
+
+installations: 
+pip install opencv-python
