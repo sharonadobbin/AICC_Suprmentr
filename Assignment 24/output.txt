@@ -1,0 +1,14 @@
+=== Keyword Extractor ===
+Enter your text: The NLP Mini App implemented is a keyword extractor developed using Python. The application focuses on processing textual data to identify and extract the most relevant words from a given input. It uses basic natural language processing techniques such as tokenization and stopword removal to filter out common and less meaningful words. By analyzing the input text, the program isolates significant keywords that represent the core content of the text. The implementation utilizes standard libraries to handle text preprocessing tasks efficiently. This project demonstrates the practical application of NLP concepts in text analysis and provides a simple yet effective way to summarize or understand textual data by highlighting important terms.
+
+Top Keywords:
+text (frequency: 4)
+nlp (frequency: 2)
+application (frequency: 2)
+processing (frequency: 2)
+textual (frequency: 2)
+data (frequency: 2)
+words (frequency: 2)
+input (frequency: 2)
+mini (frequency: 1)
+app (frequency: 1)
