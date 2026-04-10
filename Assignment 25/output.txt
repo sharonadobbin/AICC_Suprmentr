@@ -1,0 +1,43 @@
+=== Image as Numbers ===
+
+Image Shape: (3660, 4518, 3)
+Height: 3660
+Width: 4518
+Channels: 3
+
+Pixel value at (100,100): [ 2 81 62]
+
+Sample pixel values (5x5 region):
+[[[ 6 68 54]
+  [ 0 58 44]
+  [ 0 58 44]
+  [ 7 69 55]
+  [10 72 58]]
+
+ [[ 1 63 49]
+  [ 5 67 53]
+  [ 6 68 54]
+  [ 3 65 51]
+  [ 0 62 48]]
+
+ [[ 0 57 43]
+  [ 8 70 56]
+  [11 73 59]
+  [ 0 60 46]
+  [ 0 55 41]]
+
+ [[ 0 56 42]
+  [ 1 63 49]
+  [ 3 65 51]
+  [ 0 58 44]
+  [ 0 57 43]]
+
+ [[ 3 65 51]
+  [ 0 56 42]
+  [ 0 54 40]
+  [ 0 60 46]
+  [ 1 63 49]]]
+
+Grayscale Image Shape: (3660, 4518)
+
+Images saved as 'output_color.jpg' and 'output_gray.jpg'
