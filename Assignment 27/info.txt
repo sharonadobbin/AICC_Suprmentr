@@ -1,0 +1,4 @@
+Assignment Name : Detection Brainstorm
+
+Description : 
+List 5 uses of face/object detection and design one solution.
